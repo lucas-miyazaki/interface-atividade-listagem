@@ -1,0 +1,16 @@
+.cabecalho {
+    color: #283d39;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.paragrafo {
+    color: #283d39;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    font-size: 26px;
+}
